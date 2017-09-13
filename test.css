@@ -1,0 +1,11 @@
+/*Dateiname test.css*/
+body 
+{
+    background-color: lightgray 
+      ;background-image: url("../content/pic/ruthundich.jpg")
+        ;background-repeat: no-repeat
+          ;background-position: center
+            ;background-attachment: fixed
+  }
+  nav {background-color: grey}
+table {background-color: greenyellow}
